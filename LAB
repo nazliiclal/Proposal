@@ -1,0 +1,48 @@
+# Proposal
+
+## What will (likely) be the title of your project?
+
+Digital Pokedex
+
+## In just a sentence or two, summarize your project. (E.g., "A website that lets you buy and sell stocks.")
+
+A game where the character you choose fights with a random character the computer chooses, with their own weapons.
+
+## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
+
+#Our final project idea is to make a Pokedex. We will ask the user to input a number, 
+(1 to 51 minimum or 151 maximum) then we will display the information of the corresponding pokemon according the gen 1 list.
+The information displayed would be: name, strength, and power. More information can be added if need be. 
+Then we’ll ask the user: “Do you want this character or do you want to change.”.
+Depending on his/her answer, the user will choose a character and a weapon.
+Then, by importing random, the computer will have its own character and weapon.
+And at the end, these two characters will fight with their own weapon, and we’ll output who the winner is by displaying an image.
+
+
+## If planning to combine 1051's final project with another course's final project, with which other course? And which aspect(s) of your proposed project would relate to 1051, and which aspect(s) would relate to the other course?
+
+TODO, if applicable
+
+## If planning to collaborate with 1 or 2 classmates for the final project, list their names, email addresses, and the names of their assigned TAs below.
+
+Matt burkhimer, tui84519, Sai Shi
+Sofia Cordero, tun07945@temple.edu, joanne nichols
+
+## In the world of software, most everything takes longer to implement than you expect. And so it's not uncommon to accomplish less in a fixed amount of time than you hope.
+
+### In a sentence (or list of features), define a GOOD outcome for your final project. I.e., what WILL you accomplish no matter what?
+
+We will accomplish to ask the user and the computer to choose a character, and have a fight between them.
+
+### In a sentence (or list of features), define a BETTER outcome for your final project. I.e., what do you THINK you can accomplish before the final project's deadline?
+
+We think we can accomplish to ask the user and the computer to choose a character and a weapon, and have a fight between them before showing an image.
+
+### In a sentence (or list of features), define a BEST outcome for your final project. I.e., what do you HOPE to accomplish before the final project's deadline?
+
+We hope to accomplish to ask the user and the computer to choose a character and a weapon, and have a fight between them, after showing an image of both their characters and weapons. We hope to display the fight as well.
+
+## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
+
+As a group, we will research how to display the fight we're going to have amongst the characters. We also need to figure out how we are going to show images of the characters to the user.
+
